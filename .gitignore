@@ -1,0 +1,12 @@
+node_modules
+.env
+.idea/         # IntelliJ IDEA project files
+.vscode/       # Visual Studio Code project files
+*.log
+*.swp         # Swap files (e.g., from Vim)
+.DS_Store     # macOS Desktop Services Store
+npm-debug.log*
+yarn-error.log*
+dist/          # If you have a build process that outputs to a 'dist' folder
+build/         # Or a 'build' folder
+coverage/      # Code coverage reports
